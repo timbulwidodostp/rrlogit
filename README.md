@@ -1,6 +1,8 @@
 # rrlogit
 Logistic regression for randomized response data Use rrlogit With STATA 19
 
+https://www.youtube.com/watch?v=ZhkXJslY4pQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
